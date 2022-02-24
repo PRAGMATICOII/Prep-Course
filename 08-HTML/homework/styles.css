@@ -1,0 +1,12 @@
+h1{color: aqua;}
+img{width: 400px;}
+#thirddiv{
+    height: 600px;
+    width: 500px;
+    background-color: aqua;
+    padding: 50px;
+    border: 60px blue solid;
+}
+#spanid{
+    margin: 50px;
+}
